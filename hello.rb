@@ -1,1 +1,1 @@
-puts 'Hello, Mir!'
+Hello-G
