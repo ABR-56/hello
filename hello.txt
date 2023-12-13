@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 Bravo
 =======
@@ -5,3 +6,6 @@ Hello
 Test
 Bravo
 >>>>>>> ff06be0877ee3a50c8cd5e98dd1039ab0c2215a7
+=======
+Bobitjn
+>>>>>>> Stashed changes
